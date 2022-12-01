@@ -1,0 +1,38 @@
+
+
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow:visible;
+    background-image: url("https://i.gifer.com/C33t.gif");
+    background-repeat: no-repeat;
+    background-size: 1500px 900px;
+
+
+
+}
+
+#start {
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    scroll-behavior:smooth;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(250, 6, 6);
+    padding: 10px 20px;
+    margin: 10px;
+    color: white;
+    border:1px white;
+    border-radius:300px;
+    border: solid red;
+    font-size: 2px;
+    cursor: pointer;
+    
+}
+
+
+
+
+
